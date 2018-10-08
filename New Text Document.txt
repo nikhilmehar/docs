@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/9885879/how-to-group-and-choose-lowest-value-in-sql
